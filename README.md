@@ -1,6 +1,5 @@
-# UFPR-SensoriamentoRemotoI
-### Conteúdo aprendido em sala
-#### Glória Maria Deitos Gomes da Silva - Segundo semestre 2024
+# UFPR-SensoriamentoRemotoI <br> Engenharia Cartográfica e de Agrimensura
+#### Aluna: Glória Maria Deitos Gomes da Silva - Segundo semestre 2024
 
 ---
 **11 de Outubro de 2024**<br>
@@ -66,5 +65,5 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
 </table>
 
 <h4>CURVA 01:</h4>
-![image](https://github.com/user-attachments/assets/3c2459fb-445b-46c8-9d46-9d30d7125023)
+![01](https://github.com/user-attachments/assets/6bdd22de-c0f6-4206-b844-3edf2f9c290e)
 
