@@ -68,8 +68,8 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
 
 ![01](https://github.com/user-attachments/assets/ec902918-ec88-4ea1-a061-16ee35dc447b)
 ![02](https://github.com/user-attachments/assets/41c0642f-e1bb-43eb-b1f8-9372f7c35d77)
-![03](https://github.com/user-attachments/assets/adeaf3fd-33a8-41b7-b97a-ca5ffaf6e459)
-![04](https://github.com/user-attachments/assets/ba0b198e-01d4-4d67-b259-b1ee9c7f1775)
+![03](https://github.com/user-attachments/assets/b266169c-5909-4f25-b059-c684094ef91d)
+![04](https://github.com/user-attachments/assets/d023579c-40d0-463a-98ce-e9cf3652b73f)
 ![05](https://github.com/user-attachments/assets/4cd65ad9-56bb-41b8-98e4-5e17979c6af9)
 ![06](https://github.com/user-attachments/assets/064dfed3-ed36-4d6e-bc3b-3fc3e7710f86)
 ![07](https://github.com/user-attachments/assets/9126c5fb-9071-48c5-87f9-41112ba2a638)
