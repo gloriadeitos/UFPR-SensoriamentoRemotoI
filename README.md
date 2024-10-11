@@ -22,8 +22,8 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
     </tr>
     <tr style="background-color: #ADD8E6;"> <!-- Água pura -->
         <td>Água pura</td>
-        <td>0.5</td>
-        <td>0.1</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #B0E0E6;"> <!-- Água turva -->
         <td>Água turva</td>
@@ -37,8 +37,8 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
     </tr>
     <tr style="background-color: #D2B48C;"> <!-- Solo seco -->
         <td>Solo seco</td>
-        <td>0.5</td>
-        <td>0.6</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #8FBC8F;"> <!-- Solo úmido -->
         <td>Solo úmido</td>
