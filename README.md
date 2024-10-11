@@ -17,8 +17,8 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
 <table>
     <tr>
         <th>Objeto</th>
-        <th>Comprimento de Onda (µm)</th>
-        <th>Refletância (0 a 1)</th>
+        <th>Comprimento de Onda (µm) - eixo X</th>
+        <th>Refletância - eixo Y</th>
     </tr>
     <tr style="background-color: #ADD8E6;"> <!-- Água pura -->
         <td>Água pura</td>
