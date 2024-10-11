@@ -27,13 +27,13 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
     </tr>
     <tr style="background-color: #B0E0E6;"> <!-- Água turva -->
         <td>Água turva</td>
-        <td>0.5</td>
-        <td>0.2</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #98FB98;"> <!-- Água com matéria orgânica -->
         <td>Água com matéria orgânica</td>
-        <td>0.5</td>
-        <td>0.3</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #D2B48C;"> <!-- Solo seco -->
         <td>Solo seco</td>
@@ -42,28 +42,28 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
     </tr>
     <tr style="background-color: #8FBC8F;"> <!-- Solo úmido -->
         <td>Solo úmido</td>
-        <td>0.5</td>
-        <td>0.4</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #FFD700;"> <!-- Solo com baixo teor de argila -->
         <td>Solo com baixo teor de argila</td>
-        <td>0.5</td>
-        <td>0.5</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #98FB98;"> <!-- Vegetação sadia -->
         <td>Vegetação sadia</td>
-        <td>0.5</td>
-        <td>0.4</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #ADFF2F;"> <!-- Vegetação com baixo teor de clorofila -->
         <td>Vegetação com baixo teor de clorofila</td>
-        <td>0.5</td>
-        <td>0.4</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr style="background-color: #7FFF00;"> <!-- Vegetação com baixo teor de umidade -->
         <td>Vegetação com baixo teor de umidade</td>
-        <td>0.5</td>
-        <td>0.5</td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
