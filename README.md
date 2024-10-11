@@ -64,6 +64,17 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
     </tr>
 </table>
 
-<h4>CURVA 01:</h4>
-![01](https://github.com/user-attachments/assets/6bdd22de-c0f6-4206-b844-3edf2f9c290e)
+<h4>CURVAS A SEREM ANALISADAS:</h4>
+
+![01](https://github.com/user-attachments/assets/fb2ebe46-ebaa-4d05-a174-4f14392f94a6)
+![02](https://github.com/user-attachments/assets/3b008a81-b9f1-46bd-a643-6c19f1361a58)
+![03](https://github.com/user-attachments/assets/adeaf3fd-33a8-41b7-b97a-ca5ffaf6e459)
+![04](https://github.com/user-attachments/assets/ba0b198e-01d4-4d67-b259-b1ee9c7f1775)
+![05](https://github.com/user-attachments/assets/a52e7446-5ec9-4756-b67b-8ff86196d3fc)
+![06](https://github.com/user-attachments/assets/3728404d-107f-47e8-bc2e-91299ec0f59a)
+![07](https://github.com/user-attachments/assets/9126c5fb-9071-48c5-87f9-41112ba2a638)
+
+<h4>RESPOSTA CORRETA:</h4>
+
+![resposta-correta](https://github.com/user-attachments/assets/f0dc7a60-aeae-4cad-b643-c47de15360f7)
 
