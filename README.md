@@ -96,6 +96,39 @@ Ao visualizar cada curva analise sua variação e tente determinar a qual objeto
 Regiões ocupadas por água, vegetação, solo exposto e areia foram selecionadas. A média dos valores digitais para cada região foi calculada e é mostrada na tabela abaixo. Os valores variam entre 0 e 255 (máximo). Com base na tabela dos valores digitais lidos identifique o tipo de cobertura mais provável para cada região lida. 
 </p>
 
+
+
+### Tabela 1: Matriz de Confusão - Random Forest (RF)
+
+| Classe                | Floresta | Restinga | Manguezal | Transição | Áreas Urbanas | Agricultura/Pecuária | Água | Restante (Outras) | Total |
+|-----------------------|----------|----------|-----------|-----------|---------------|----------------------|------|-------------------|-------|
+| **Floresta**           | 0        | 56322    | 26        | 0         | 0             | 0                    | 376  | 0                 | 56324 |
+| **Restinga**           | 0        | 8        | 954       | 0         | 0             | 0                    | 0    | 0                 | 962   |
+| **Manguezal**          | 0        | 0        | 78        | 0         | 1             | 0                    | 0    | 0                 | 79    |
+| **Transição**          | 0        | 0        | 2         | 3475      | 0             | 0                    | 0    | 0                 | 3477  |
+| **Áreas Urbanas**      | 0        | 0        | 0         | 12        | 254           | 0                    | 0    | 0                 | 266   |
+| **Agricultura/Pecuária** | 0        | 0        | 0         | 0         | 0             | 6873                 | 0    | 0                 | 6873  |
+| **Água**               | 0        | 1467     | 7         | 0         | 1             | 0                    | 6873 | 0                 | 7348  |
+| **Restante (Outras)**  | 0        | 0        | 0         | 0         | 13            | 0                    | 29   | 0                 | 42    |
+| **Total**              | 0        | 56322    | 78        | 3475      | 254           | 6873                 | 0    | 8508              | 8508  |
+
+---
+
+### Tabela 2: Matriz de Confusão - Distância de Mahalanobis (MDist)
+
+| Classe                | Floresta | Restinga | Manguezal | Transição | Áreas Urbanas | Agricultura/Pecuária | Água | Restante (Outras) | Total |
+|-----------------------|----------|----------|-----------|-----------|---------------|----------------------|------|-------------------|-------|
+| **Floresta**           | 0        | 45977    | 3796      | 0         | 58            | 0                    | 6893 | 0                 | 45977 |
+| **Restinga**           | 0        | 2        | 952       | 1         | 7             | 0                    | 0    | 0                 | 962   |
+| **Manguezal**          | 0        | 0        | 57        | 24        | 0             | 0                    | 0    | 0                 | 81    |
+| **Transição**          | 0        | 0        | 0         | 3363      | 0             | 0                    | 112  | 0                 | 3475  |
+| **Áreas Urbanas**      | 0        | 0        | 0         | 56        | 195           | 0                    | 0    | 49                | 300   |
+| **Agricultura/Pecuária** | 0        | 0        | 0         | 0         | 0             | 8014                 | 0    | 0                 | 8014  |
+| **Água**               | 0        | 251      | 21        | 0         | 62            | 0                    | 8014 | 0                 | 8350  |
+| **Restante (Outras)**  | 0        | 0        | 0         | 0         | 0             | 0                    | 42   | 0                 | 42    |
+| **Total**              | 0        | 45977    | 3796      | 3363      | 3363          | 8014                 | 6893 | 8508              | 8508  |
+
+
 <h4>RESPOSTA CORRETA:</h4>
 
 ![resposta-correta-2](https://github.com/user-attachments/assets/0c7e7fa0-50e6-4f1c-8899-f61d6a4fae04)
